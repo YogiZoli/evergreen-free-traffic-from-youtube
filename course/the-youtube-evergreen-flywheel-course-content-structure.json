@@ -1,0 +1,643 @@
+{
+  "schema_version": "1.1",
+  "type": "course-content-structure",
+  "generated_at": "2026-10-23T12:14:20.178Z",
+  "source": "minicourse-as-a-lead-magnet",
+  "course": {
+    "title": "The YouTube Evergreen Flywheel",
+    "slug": "the-youtube-evergreen-flywheel",
+    "bold_promise": "Plan and publish one evergreen YouTube playlist that turns viewers into email subscribers, without chasing views.",
+    "ideal_client": "Experts, freelancers and course creators who know their topic but have no audience or email list yet.",
+    "lesson_count": 8
+  },
+  "playlist": null,
+  "lessons": [
+    {
+      "id": "m1-l1",
+      "playlist_position": 1,
+      "module_position": 1,
+      "module_title": "The Owner Mindset",
+      "lesson_position": 1,
+      "title": "You are a business owner, not a YouTuber",
+      "keyword": "youtube for business owners",
+      "hook": "Your channel can be taken away overnight. Your email list cannot.",
+      "teach": {
+        "minutes": 7,
+        "points": [
+          "Rented land versus owned land",
+          "Views, subscribers and fame are not the goal; leads are",
+          "Ad revenue is a bonus, not a business",
+          "The right 1,000 viewers beat 100,000 random ones",
+          "Every video sends viewers to one place: your list"
+        ]
+      },
+      "do": {
+        "minutes": 2,
+        "exercise": "Write one sentence: My channel exists to send [who] to my [free resource]."
+      },
+      "review": {
+        "minutes": 1,
+        "check": "Can you name the one place every video sends people?"
+      },
+      "cta": "GUIDE",
+      "youtube": {
+        "title": "YouTube for Business Owners: Stop Chasing Views",
+        "description": "You are a business owner, not a YouTuber.\n\nLesson 1 of 8 in The YouTube Evergreen Flywheel playlist."
+      }
+    },
+    {
+      "id": "m1-l2",
+      "playlist_position": 2,
+      "module_position": 1,
+      "module_title": "The Owner Mindset",
+      "lesson_position": 2,
+      "title": "How the YouTube algorithm works now",
+      "keyword": "how the youtube algorithm works",
+      "hook": "Long watch time is no longer the goal. Satisfaction is.",
+      "teach": {
+        "minutes": 7,
+        "points": [
+          "Satisfaction signals: surveys, session continuation, comments",
+          "The five ways YouTube recommends videos",
+          "Video length follows the topic, not a rule",
+          "A real identity beats faceless mass content; label AI use honestly",
+          "Realistic click and retention benchmarks"
+        ]
+      },
+      "do": {
+        "minutes": 2,
+        "exercise": "Pick 3 videos in your niche and note why each one kept you watching."
+      },
+      "review": {
+        "minutes": 1,
+        "check": "Name the signal YouTube cares about most today."
+      },
+      "cta": "GUIDE",
+      "youtube": {
+        "title": "How the YouTube Algorithm Works Now (Satisfaction Explained)",
+        "description": "How the YouTube algorithm works now.\n\nLesson 2 of 8 in The YouTube Evergreen Flywheel playlist."
+      }
+    },
+    {
+      "id": "m2-l1",
+      "playlist_position": 3,
+      "module_position": 2,
+      "module_title": "Plan the Flywheel",
+      "lesson_position": 1,
+      "title": "Find your niche and your ideal viewer",
+      "keyword": "how to find your youtube niche",
+      "hook": "Broad is invisible. Specific is seen.",
+      "teach": {
+        "minutes": 7,
+        "points": [
+          "Skills plus demand, not passion alone",
+          "The ideal viewer is a moment, not a demographic",
+          "Where they are now and where they want to be",
+          "The transformation statement",
+          "Collect the exact words your viewers use"
+        ]
+      },
+      "do": {
+        "minutes": 2,
+        "exercise": "Fill in: I help [who] go from [now] to [result] so they can [deeper reason]."
+      },
+      "review": {
+        "minutes": 1,
+        "check": "Could a stranger read your statement and know if it is for them?"
+      },
+      "cta": "GUIDE",
+      "youtube": {
+        "title": "How to Find Your YouTube Niche and Ideal Viewer",
+        "description": "Find your niche and your ideal viewer.\n\nLesson 3 of 8 in The YouTube Evergreen Flywheel playlist."
+      }
+    },
+    {
+      "id": "m2-l2",
+      "playlist_position": 4,
+      "module_position": 2,
+      "module_title": "Plan the Flywheel",
+      "lesson_position": 2,
+      "title": "Plan one evergreen playlist from keyword research",
+      "keyword": "youtube keyword research",
+      "hook": "How many videos do you need? Your keyword research decides, not a guess.",
+      "teach": {
+        "minutes": 7,
+        "points": [
+          "Topic as course spine: each video answers the next question",
+          "Keyword research with search suggestions, competitor videos and a keyword tool",
+          "One video per strong keyword, usually 6 to 12",
+          "Three video types: evergreen, trend, depth",
+          "The starting mix for a new playlist"
+        ]
+      },
+      "do": {
+        "minutes": 2,
+        "exercise": "List 10 search phrases your ideal viewer types, then keep the strongest 6 to 12 in order."
+      },
+      "review": {
+        "minutes": 1,
+        "check": "Does each video lead naturally to the next one?"
+      },
+      "cta": "COURSE",
+      "youtube": {
+        "title": "YouTube Keyword Research: Plan a Playlist That Lasts",
+        "description": "Plan one evergreen playlist from keyword research.\n\nLesson 4 of 8 in The YouTube Evergreen Flywheel playlist."
+      }
+    },
+    {
+      "id": "m3-l1",
+      "playlist_position": 5,
+      "module_position": 3,
+      "module_title": "Make Videos That Convert",
+      "lesson_position": 1,
+      "title": "The Ownership Formula: how to structure every video",
+      "keyword": "how to script a youtube video",
+      "hook": "Most videos ask for a subscribe. Yours will ask for an email.",
+      "teach": {
+        "minutes": 7,
+        "points": [
+          "Three parts: OPEN, TEACH, OWN",
+          "A pattern interrupt and a hook that matches the title",
+          "Three calls to action: early, after the first payoff, at the end",
+          "Teach in blocks that answer the next question",
+          "End screen: one next video only"
+        ]
+      },
+      "do": {
+        "minutes": 2,
+        "exercise": "Outline your first video in the three parts and mark your three call to action spots."
+      },
+      "review": {
+        "minutes": 1,
+        "check": "Does your hook keep the promise of your title?"
+      },
+      "cta": "COURSE",
+      "youtube": {
+        "title": "How to Script a YouTube Video That Builds Your Email List",
+        "description": "The Ownership Formula: how to structure every video.\n\nLesson 5 of 8 in The YouTube Evergreen Flywheel playlist."
+      }
+    },
+    {
+      "id": "m3-l2",
+      "playlist_position": 6,
+      "module_position": 3,
+      "module_title": "Make Videos That Convert",
+      "lesson_position": 2,
+      "title": "Titles, thumbnails and descriptions that get the right click",
+      "keyword": "youtube title and thumbnail tips",
+      "hook": "Decide the title before you write a single line of script.",
+      "teach": {
+        "minutes": 7,
+        "points": [
+          "Title first, script second",
+          "Title rules: keyword first, under 60 characters, an honest curiosity gap",
+          "Thumbnail: one bold idea, one promise",
+          "Description: free resource link first, then the next video",
+          "Corrected captions help search"
+        ]
+      },
+      "do": {
+        "minutes": 2,
+        "exercise": "Write 3 title options for your first video and pick one with a reason."
+      },
+      "review": {
+        "minutes": 1,
+        "check": "Would a viewer feel the video kept the title's promise?"
+      },
+      "cta": "COURSE",
+      "youtube": {
+        "title": "YouTube Titles and Thumbnails That Get the Right Click",
+        "description": "Titles, thumbnails and descriptions that get the right click.\n\nLesson 6 of 8 in The YouTube Evergreen Flywheel playlist."
+      }
+    },
+    {
+      "id": "m4-l1",
+      "playlist_position": 7,
+      "module_position": 4,
+      "module_title": "Turn Viewers Into Your List",
+      "lesson_position": 1,
+      "title": "The conversion bridge: from viewer to email subscriber",
+      "keyword": "how to grow an email list from youtube",
+      "hook": "A view you cannot email again is a view you rented.",
+      "teach": {
+        "minutes": 7,
+        "points": [
+          "The path: video, call to action, opt-in page, free resource, email, offer",
+          "One free resource per playlist, tied to your offer",
+          "Comment keyword calls to action",
+          "Call to action wording by video type",
+          "Measure your opt-in rate"
+        ]
+      },
+      "do": {
+        "minutes": 2,
+        "exercise": "Name the one free resource for your playlist and write the sentence you will say in every video."
+      },
+      "review": {
+        "minutes": 1,
+        "check": "Can a viewer get from your video to your list in two clicks?"
+      },
+      "cta": "COURSE",
+      "youtube": {
+        "title": "How to Grow an Email List From YouTube",
+        "description": "The conversion bridge: from viewer to email subscriber.\n\nLesson 7 of 8 in The YouTube Evergreen Flywheel playlist."
+      }
+    },
+    {
+      "id": "m4-l2",
+      "playlist_position": 8,
+      "module_position": 4,
+      "module_title": "Turn Viewers Into Your List",
+      "lesson_position": 2,
+      "title": "Launch, measure and keep the flywheel turning",
+      "keyword": "how to start a youtube channel for business",
+      "hook": "Six videos, six weeks, and the right signals.",
+      "teach": {
+        "minutes": 7,
+        "points": [
+          "Prepare two or three videos before you go live",
+          "The six week plan and a simple daily routine",
+          "Metrics in order: retention, clicks by source, session continuation, opt-in rate",
+          "The breakthrough video protocol",
+          "The tools I use for my list and funnel: GoHighLevel, with an affiliate disclosure and my bonus"
+        ]
+      },
+      "do": {
+        "minutes": 2,
+        "exercise": "Put your first six publish dates in a calendar."
+      },
+      "review": {
+        "minutes": 1,
+        "check": "Which one number will you check first every week?"
+      },
+      "cta": "TRIGGER",
+      "youtube": {
+        "title": "How to Start a YouTube Channel for Business: First 6 Weeks",
+        "description": "Launch, measure and keep the flywheel turning.\n\nLesson 8 of 8 in The YouTube Evergreen Flywheel playlist."
+      }
+    }
+  ],
+  "outline": {
+    "schema_version": "1.0",
+    "course": {
+      "title": "The YouTube Evergreen Flywheel",
+      "format": "Self-paced video minicourse",
+      "bold_promise": "Plan and publish one evergreen YouTube playlist that turns viewers into email subscribers, without chasing views.",
+      "ideal_client": "Experts, freelancers and course creators who know their topic but have no audience or email list yet.",
+      "delivered_by": "The creator, on video",
+      "unique_approach": {
+        "name": "The Ownership Formula",
+        "summary": "Every video has three parts, OPEN, TEACH and OWN, and three calls to action that move a viewer to your email list.",
+        "visual": "A loop: ideal viewer, relevant video, YouTube finds more viewers, email list grows, back to the start.",
+        "rationale": "YouTube is rented land. The email list is the one asset you own."
+      },
+      "sessions": {
+        "count": 8,
+        "duration_minutes": 10
+      },
+      "cta": "TRIGGER"
+    },
+    "modules": [
+      {
+        "position": 1,
+        "title": "The Owner Mindset",
+        "outcome": "You know why every video exists: to grow your email list.",
+        "lessons": [
+          {
+            "position": 1,
+            "playlist_position": 1,
+            "title": "You are a business owner, not a YouTuber",
+            "relevance": "",
+            "keyword": "youtube for business owners",
+            "hook": "Your channel can be taken away overnight. Your email list cannot.",
+            "teach": {
+              "minutes": 7,
+              "points": [
+                "Rented land versus owned land",
+                "Views, subscribers and fame are not the goal; leads are",
+                "Ad revenue is a bonus, not a business",
+                "The right 1,000 viewers beat 100,000 random ones",
+                "Every video sends viewers to one place: your list"
+              ]
+            },
+            "do": {
+              "minutes": 2,
+              "exercise": "Write one sentence: My channel exists to send [who] to my [free resource]."
+            },
+            "review": {
+              "minutes": 1,
+              "check": "Can you name the one place every video sends people?"
+            },
+            "rationale": "",
+            "resources": [
+              {
+                "title": "Lesson 1 worksheet",
+                "type": "worksheet",
+                "description": "Write one sentence: My channel exists to send [who] to my [free resource]."
+              }
+            ],
+            "cta": "GUIDE",
+            "youtube": {
+              "title": "YouTube for Business Owners: Stop Chasing Views",
+              "description": "You are a business owner, not a YouTuber.\n\nLesson 1 of 8 in The YouTube Evergreen Flywheel playlist."
+            }
+          },
+          {
+            "position": 2,
+            "playlist_position": 2,
+            "title": "How the YouTube algorithm works now",
+            "relevance": "",
+            "keyword": "how the youtube algorithm works",
+            "hook": "Long watch time is no longer the goal. Satisfaction is.",
+            "teach": {
+              "minutes": 7,
+              "points": [
+                "Satisfaction signals: surveys, session continuation, comments",
+                "The five ways YouTube recommends videos",
+                "Video length follows the topic, not a rule",
+                "A real identity beats faceless mass content; label AI use honestly",
+                "Realistic click and retention benchmarks"
+              ]
+            },
+            "do": {
+              "minutes": 2,
+              "exercise": "Pick 3 videos in your niche and note why each one kept you watching."
+            },
+            "review": {
+              "minutes": 1,
+              "check": "Name the signal YouTube cares about most today."
+            },
+            "rationale": "",
+            "resources": [
+              {
+                "title": "Lesson 2 worksheet",
+                "type": "worksheet",
+                "description": "Pick 3 videos in your niche and note why each one kept you watching."
+              }
+            ],
+            "cta": "GUIDE",
+            "youtube": {
+              "title": "How the YouTube Algorithm Works Now (Satisfaction Explained)",
+              "description": "How the YouTube algorithm works now.\n\nLesson 2 of 8 in The YouTube Evergreen Flywheel playlist."
+            }
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "Plan the Flywheel",
+        "outcome": "You have a clear ideal viewer and one planned evergreen playlist.",
+        "lessons": [
+          {
+            "position": 1,
+            "playlist_position": 3,
+            "title": "Find your niche and your ideal viewer",
+            "relevance": "",
+            "keyword": "how to find your youtube niche",
+            "hook": "Broad is invisible. Specific is seen.",
+            "teach": {
+              "minutes": 7,
+              "points": [
+                "Skills plus demand, not passion alone",
+                "The ideal viewer is a moment, not a demographic",
+                "Where they are now and where they want to be",
+                "The transformation statement",
+                "Collect the exact words your viewers use"
+              ]
+            },
+            "do": {
+              "minutes": 2,
+              "exercise": "Fill in: I help [who] go from [now] to [result] so they can [deeper reason]."
+            },
+            "review": {
+              "minutes": 1,
+              "check": "Could a stranger read your statement and know if it is for them?"
+            },
+            "rationale": "",
+            "resources": [
+              {
+                "title": "Lesson 3 worksheet",
+                "type": "worksheet",
+                "description": "Fill in: I help [who] go from [now] to [result] so they can [deeper reason]."
+              }
+            ],
+            "cta": "GUIDE",
+            "youtube": {
+              "title": "How to Find Your YouTube Niche and Ideal Viewer",
+              "description": "Find your niche and your ideal viewer.\n\nLesson 3 of 8 in The YouTube Evergreen Flywheel playlist."
+            }
+          },
+          {
+            "position": 2,
+            "playlist_position": 4,
+            "title": "Plan one evergreen playlist from keyword research",
+            "relevance": "",
+            "keyword": "youtube keyword research",
+            "hook": "How many videos do you need? Your keyword research decides, not a guess.",
+            "teach": {
+              "minutes": 7,
+              "points": [
+                "Topic as course spine: each video answers the next question",
+                "Keyword research with search suggestions, competitor videos and a keyword tool",
+                "One video per strong keyword, usually 6 to 12",
+                "Three video types: evergreen, trend, depth",
+                "The starting mix for a new playlist"
+              ]
+            },
+            "do": {
+              "minutes": 2,
+              "exercise": "List 10 search phrases your ideal viewer types, then keep the strongest 6 to 12 in order."
+            },
+            "review": {
+              "minutes": 1,
+              "check": "Does each video lead naturally to the next one?"
+            },
+            "rationale": "",
+            "resources": [
+              {
+                "title": "Lesson 4 worksheet",
+                "type": "worksheet",
+                "description": "List 10 search phrases your ideal viewer types, then keep the strongest 6 to 12 in order."
+              }
+            ],
+            "cta": "COURSE",
+            "youtube": {
+              "title": "YouTube Keyword Research: Plan a Playlist That Lasts",
+              "description": "Plan one evergreen playlist from keyword research.\n\nLesson 4 of 8 in The YouTube Evergreen Flywheel playlist."
+            }
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "Make Videos That Convert",
+        "outcome": "Your first video is outlined, titled and ready to make.",
+        "lessons": [
+          {
+            "position": 1,
+            "playlist_position": 5,
+            "title": "The Ownership Formula: how to structure every video",
+            "relevance": "",
+            "keyword": "how to script a youtube video",
+            "hook": "Most videos ask for a subscribe. Yours will ask for an email.",
+            "teach": {
+              "minutes": 7,
+              "points": [
+                "Three parts: OPEN, TEACH, OWN",
+                "A pattern interrupt and a hook that matches the title",
+                "Three calls to action: early, after the first payoff, at the end",
+                "Teach in blocks that answer the next question",
+                "End screen: one next video only"
+              ]
+            },
+            "do": {
+              "minutes": 2,
+              "exercise": "Outline your first video in the three parts and mark your three call to action spots."
+            },
+            "review": {
+              "minutes": 1,
+              "check": "Does your hook keep the promise of your title?"
+            },
+            "rationale": "",
+            "resources": [
+              {
+                "title": "Lesson 5 worksheet",
+                "type": "worksheet",
+                "description": "Outline your first video in the three parts and mark your three call to action spots."
+              }
+            ],
+            "cta": "COURSE",
+            "youtube": {
+              "title": "How to Script a YouTube Video That Builds Your Email List",
+              "description": "The Ownership Formula: how to structure every video.\n\nLesson 5 of 8 in The YouTube Evergreen Flywheel playlist."
+            }
+          },
+          {
+            "position": 2,
+            "playlist_position": 6,
+            "title": "Titles, thumbnails and descriptions that get the right click",
+            "relevance": "",
+            "keyword": "youtube title and thumbnail tips",
+            "hook": "Decide the title before you write a single line of script.",
+            "teach": {
+              "minutes": 7,
+              "points": [
+                "Title first, script second",
+                "Title rules: keyword first, under 60 characters, an honest curiosity gap",
+                "Thumbnail: one bold idea, one promise",
+                "Description: free resource link first, then the next video",
+                "Corrected captions help search"
+              ]
+            },
+            "do": {
+              "minutes": 2,
+              "exercise": "Write 3 title options for your first video and pick one with a reason."
+            },
+            "review": {
+              "minutes": 1,
+              "check": "Would a viewer feel the video kept the title's promise?"
+            },
+            "rationale": "",
+            "resources": [
+              {
+                "title": "Lesson 6 worksheet",
+                "type": "worksheet",
+                "description": "Write 3 title options for your first video and pick one with a reason."
+              }
+            ],
+            "cta": "COURSE",
+            "youtube": {
+              "title": "YouTube Titles and Thumbnails That Get the Right Click",
+              "description": "Titles, thumbnails and descriptions that get the right click.\n\nLesson 6 of 8 in The YouTube Evergreen Flywheel playlist."
+            }
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "Turn Viewers Into Your List",
+        "outcome": "Your conversion path is live and your first six weeks are planned.",
+        "lessons": [
+          {
+            "position": 1,
+            "playlist_position": 7,
+            "title": "The conversion bridge: from viewer to email subscriber",
+            "relevance": "",
+            "keyword": "how to grow an email list from youtube",
+            "hook": "A view you cannot email again is a view you rented.",
+            "teach": {
+              "minutes": 7,
+              "points": [
+                "The path: video, call to action, opt-in page, free resource, email, offer",
+                "One free resource per playlist, tied to your offer",
+                "Comment keyword calls to action",
+                "Call to action wording by video type",
+                "Measure your opt-in rate"
+              ]
+            },
+            "do": {
+              "minutes": 2,
+              "exercise": "Name the one free resource for your playlist and write the sentence you will say in every video."
+            },
+            "review": {
+              "minutes": 1,
+              "check": "Can a viewer get from your video to your list in two clicks?"
+            },
+            "rationale": "",
+            "resources": [
+              {
+                "title": "Lesson 7 worksheet",
+                "type": "worksheet",
+                "description": "Name the one free resource for your playlist and write the sentence you will say in every video."
+              }
+            ],
+            "cta": "COURSE",
+            "youtube": {
+              "title": "How to Grow an Email List From YouTube",
+              "description": "The conversion bridge: from viewer to email subscriber.\n\nLesson 7 of 8 in The YouTube Evergreen Flywheel playlist."
+            }
+          },
+          {
+            "position": 2,
+            "playlist_position": 8,
+            "title": "Launch, measure and keep the flywheel turning",
+            "relevance": "",
+            "keyword": "how to start a youtube channel for business",
+            "hook": "Six videos, six weeks, and the right signals.",
+            "teach": {
+              "minutes": 7,
+              "points": [
+                "Prepare two or three videos before you go live",
+                "The six week plan and a simple daily routine",
+                "Metrics in order: retention, clicks by source, session continuation, opt-in rate",
+                "The breakthrough video protocol",
+                "The tools I use for my list and funnel: GoHighLevel, with an affiliate disclosure and my bonus"
+              ]
+            },
+            "do": {
+              "minutes": 2,
+              "exercise": "Put your first six publish dates in a calendar."
+            },
+            "review": {
+              "minutes": 1,
+              "check": "Which one number will you check first every week?"
+            },
+            "rationale": "",
+            "resources": [
+              {
+                "title": "Lesson 8 worksheet",
+                "type": "worksheet",
+                "description": "Put your first six publish dates in a calendar."
+              }
+            ],
+            "cta": "TRIGGER",
+            "youtube": {
+              "title": "How to Start a YouTube Channel for Business: First 6 Weeks",
+              "description": "Launch, measure and keep the flywheel turning.\n\nLesson 8 of 8 in The YouTube Evergreen Flywheel playlist."
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
