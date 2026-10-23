@@ -1,5 +1,7 @@
 # Evergreen Free Traffic from YouTube
 
+> **Superseded on 2026-10-23. Not built.** The method now lives in the YouTube Evergreen Flywheel mini course (lead-magnet slot lm3) and in the Playlist Planner inside IdeaToVideo. Kept for reference only. See Drive doc 26_Course_Creator_Universe_Map_and_Build_Order.
+
 Working name: **YT Flywheel Creator**. Lead magnet #4 of the Template 1 (Course Creator) set.
 
 Status: **PARKED (concept only, not built).** Saved here on 2026-10-10 so the thinking is not lost. Build starts only after Lead Magnet #3 (Brand Channel Wizard) ships and its Evergreen Traffic Card format is final.
